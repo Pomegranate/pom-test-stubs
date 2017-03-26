@@ -1,0 +1,31 @@
+{
+  "name": "pom-test-stubs",
+  "version": "0.0.0",
+  "description": "Provides stubs and mocks for Pomegranate component parts.",
+  "main": "index.js",
+  "keywords": [
+    "Pomegranate",
+    "structural"
+  ],
+  "author": "Jim Bulkowski <jim.b@paperelectron.com> (http://paperelectron.com)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "debug": "^2.6.2",
+    "lodash": "^4.17.4",
+    "mockery": "^2.0.0",
+    "pom-framework-utils": "^0.0.3"
+  },
+  "devDependencies": {
+    "magnum-di": "^2.2.3",
+    "tap": "^10.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pomegranate/pom-test-stubs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pomegranate/pom-test-stubs/issues"
+  },
+  "homepage": "https://github.com/Pomegranate/pom-test-stubs#readme"
+}
