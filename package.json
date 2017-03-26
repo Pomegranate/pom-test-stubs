@@ -1,6 +1,6 @@
 {
   "name": "pom-test-stubs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Provides stubs and mocks for Pomegranate component parts.",
   "main": "index.js",
   "keywords": [
